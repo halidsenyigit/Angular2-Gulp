@@ -1,4 +1,5 @@
 # Angular2-Gulp
 
-> npm install
+> npm install <br>
+> typings install <br>
 > gulp
